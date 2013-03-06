@@ -1,11 +1,11 @@
 README
 This is a regular paragraph.
 
-&lt;table;&gt
+&lt;table&gt;
     <tr>
         <td>Foo</td>
     </tr>
-&lt;table;&gt
+&lt;table&amp;&gt;
 <p>Here is an example of AppleScript:</p>
 
 <pre><code>tell application "Foo"
