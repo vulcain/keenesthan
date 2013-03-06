@@ -1,14 +1,15 @@
 README
 This is a regular paragraph.
-
-&lt;table&gt;
+...
+<table>
     <tr>
         <td>Foo</td>
     </tr>
-&lt;table&amp;&gt;
+</table>
 <p>Here is an example of AppleScript:</p>
 
 <pre><code>tell application "Foo"
     beep
 end tell
 </code></pre>
+...
