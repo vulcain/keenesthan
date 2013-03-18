@@ -37,3 +37,5 @@ Use the following notation to reference and display an image:
 #!/usr/bin/env node/
 *This is invoked as a shell script by NPM when the `§wiki` command is typed
 var tiddlywiki = require("./core/boot.js");
+---
+TEST_PHP_EXECUTABLE=sapi/cli/php \sapi/cli/php [-c /path/to/php.ini] run-tests.php [ext/foo/tests/GLOB]
