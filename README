@@ -16,16 +16,7 @@ end tell
 [[https://github.com/user/repo.git/info/refs?service=git-receive-pack]]
 
 Search
- 
-
 How do I add images to my wiki?
-
-
-
-
-
-
-
 There are two ways to add images to your wiki pages, 
 through the built in UI or by editing the markdown directly.
 
@@ -39,7 +30,7 @@ through the built in UI or by editing the markdown directly.
 ####To use Markdown:
 
 Use the following notation to reference and display an image:
-![](http://direct_public_image_url)
+![123123](http://direct_public_image_url)
 
  You can host the image anywhere public, or you can add it to the wiki repository
  and then access it via the raw URL.
