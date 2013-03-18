@@ -30,7 +30,7 @@ through the built in UI or by editing the markdown directly.
 ####To use Markdown:
 
 Use the following notation to reference and display an image:
-![123123](http://direct_public_image_url)
+![](http://dedel591.d.e.pic.centerblog.net/o/75908e5f.jpg)
 
  You can host the image anywhere public, or you can add it to the wiki repository
  and then access it via the raw URL.
