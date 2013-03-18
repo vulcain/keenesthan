@@ -34,3 +34,6 @@ Use the following notation to reference and display an image:
 
  You can host the image anywhere public, or you can add it to the wiki repository
  and then access it via the raw URL.
+#!/usr/bin/env node/
+*This is invoked as a shell script by NPM when the `§wiki` command is typed
+var tiddlywiki = require("./core/boot.js");
