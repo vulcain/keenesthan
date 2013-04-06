@@ -13,6 +13,24 @@ un exemple
 
 http://newmerator.github.io/
 ---
+The included functions are based on [blend.js](https://github.com/master/blend.js) from the [Pixastic Image Processing Library](http://www.pixastic.com/lib/]
+I chose this library because JavaScript is easy enough to read and the blend modes seemed to match 
+closely with what Photoshop offered. Additionally, a [detailed 
+explaination of Photoshop blend modes](http://photoblogspot.com/photo/) was used as a reference as well as the Wikipedia article on blend modes](en/wikipedia.org/wiki/blend_modes).
+
+----
+```scss
+//make sure the was import
+@import 'blend_modes';
+//solid background
+.multiply{background-color:blend-multiply(#ff6523, #191956);
+//pour ecrire une fonction $function
+}
+```
+
+
+
+----
 API V3 system code personel
 for access pierfort123@blogger.com
 49023042683
