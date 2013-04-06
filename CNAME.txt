@@ -1,0 +1,11 @@
+$ORIGIN 0.168.192.in-addr.arpa.
+0/25     NS ns.clientA.fr.
+128/25   NS ns.clientB.fr.
+ 
+0          CNAME 0.0/25.0.168.192.in-addr.arpa.
+1          CNAME 1.0/25.0.168.192.in-addr.arpa.
+...
+127        CNAME 127.0/25.0.168.192.in-addr.arpa.
+128        CNAME 128.128/25.0.168.192.in-addr.arpa.
+...
+255        CNAME 255.128/25.0.168.192.in-addr.arpa.
