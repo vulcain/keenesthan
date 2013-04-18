@@ -429,3 +429,17 @@ Small Device Styles
   }
 
 }
+
+#header_wrap{background-color:#784512;border:2px stride #121212;}
+#forkme_banner{background-color:#784512;border:2px stride #121212;} 
+#project_title{background-color:#784512;border:2px stride #121212;}    
+#project_tagline{background-color:#784512;border:2px stride #121212;} 
+#downloads{background-color:#784512;border:2px stride #121212;}  
+#main_content_wrap{background-color:#784512;border:2px stride #121212;}  
+#main_content{background-color:#784512;border:2px stride #121212;}  
+#footer_wrap{background-color:#784512;border:2px stride #121212;} 
+.outer{background-color:#ff4512;border:2px stride #121212;}
+.inner{background-color:#ff4512;border:2px stride #121212;}
+.zip_download_link{background-color:#ff4512;border:2px stride #121212;}  
+.tar_download_link{background-color:#ff4512;border:2px stride #121212;}    
+.keenes{background-color:#ff4512;border:2px stride #121212;}
