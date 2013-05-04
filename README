@@ -8,7 +8,7 @@ Parfois vous voudrez supprimer des paramètres de session lors de vos requêtes.
  
 Toutes les valeurs contenues dans la session sont directement accessibles.
 
-[https://github.com/requests/requests-docs-fr/blob/master/docs/user/advanced.rst]
+[[https://github.com/requests/requests-docs-fr/blob/master/docs/user/advanced.rst]]
 
 [http://keenesthan.github.io/keenesthan]
 
