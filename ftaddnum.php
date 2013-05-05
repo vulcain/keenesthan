@@ -3,7 +3,7 @@
 <title>An XHTML 1.0 Strict  template</title> 
 <meta http-equiv="content-type"     content="text/html;charset=utf-8" />
 <style>
-#righttool{background-color:#f5f5f5;}
+#righttool{background-color:#f5f5f5;width:256px;}
 .high{width:768px;height:23px;border:2px stride #191956;color:#12895f;font-size:1.2em;}
 </style>
 </head>
