@@ -7,7 +7,7 @@
 </style>
 </head>
 <body> 
-<div class="high"><img src=""/>expose</div>
+<div class="high"><img src="http://cache.www.gametracker.com/profile/keenesthan/b_460x42_C000000-222222-333333-cccccc-ffcc00-ffcc00.png"/>expose</div>
 <p>… do you want explore Your HTML content here …</p>
 <p style="background-color:#454545;color:#fff;">hello world<a href="removeindex.html">
 <h1>experimentation musicien</h1></a>
