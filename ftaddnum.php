@@ -3,8 +3,8 @@
 <title>An XHTML 1.0 Strict  template</title> 
 <meta http-equiv="content-type"     content="text/html;charset=utf-8" />
 <style>
-#righttool{float:right;background-color:#f5f5f5;width:256px;}
-.high{width:768px;height:23px;border:2px stride #191956;color:#12895f;font-size:1.2em;}
+#rol{float:right;background-color:#f5f5f5;width:256px;}
+.high{width:768px;height:23px;border:2px inset #191956;color:#12895f;font-size:1.2em;}
 </style>
 </head>
 <body> 
@@ -19,7 +19,7 @@
 <input type="button" id="subtextform" name="your n° pass" value="subtextform"/>
 </form>
 <div width="324px">c'est ici div ! Hi</div>
-<div id="righttool" align="right">
+<div id="rpl" align="right">
 <ul><li><a href="">memo12</a></li><li><a href="">memo16</a></li><li><a href="">memo94</a></li></ul>
 </div>
 <script><?php 
