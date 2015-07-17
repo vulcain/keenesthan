@@ -1,7 +1,13 @@
 README
 This is a regular paragraph.
 ----
-
+    
+    ```
+    #!/bin/.sh
+    @echo
+    ```
+    
+    
 Supprimer une valeur d'un paramètre
  
 Parfois vous voudrez supprimer des paramètres de session lors de vos requêtes. Pour cela, il suffit d'envoyer lors de l'appel de la méthode un dictionnaire dont les clés seraient les paramètres a supprimer et les valeurs seraient None. Ces paramètres seront alors automatiquement omis.
