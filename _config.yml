@@ -1,5 +1,5 @@
 safe: true
-source: <your pages repo>
-destination: <the build dir>
+source: https://github.com/vulcain/keenesthan/blob/master/
+destination: https://github.com/vulcain/keenesthan/blob/gh-pages/
 lsi: false
 pygments: true
