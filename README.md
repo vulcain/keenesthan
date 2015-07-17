@@ -6,6 +6,8 @@
   @keenesthan
   $keenesthan
   
+  http://vulcain.github.io/keenesthan/ftaddnum.php
+  
   Here's an example:
 
 ```javascript
