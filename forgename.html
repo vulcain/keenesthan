@@ -5,14 +5,14 @@
 <link rel="stylesheet" href="stylesheets/mystoka.css">
  <script>
 function apiStatus(data) {
-  console.log(data.status);
+  document.getElementById(nether).innerHTML = (data.status);
 }
 </script>
 <script src="https://status.github.com/api/status.json?callback=apiStatus"></script>
 
 </head>
 <body>     
-<p>… do you want explore Your HTML content here …</p>
+<p id="nether">… do you want explore Your HTML content here …</p>
 <p style="background-color:#454545;color:#fff;">
 hello world
 <a href="removeindex.html">revolver</a>
