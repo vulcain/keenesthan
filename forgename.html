@@ -18,14 +18,14 @@ Here, an HTML <script> element specifies for its src attribute a URL that return
     "Rank": 7
 }
 function apiStatus(data) {
-  document.getElementById('nether').innerHTML = data.status;
+  document.getElementById('nether').innerHTML = (data.status).value;
  
 }
  function foo(response) {
   var meta = response.meta;
   var data = response.data;
-  console.log(meta);
-  console.log(data);
+document.getElementById('nether').innerHTML = (meta).value;
+document.getElementById('nether').innerHTML = (data).value;
 }
 
 var script = document.createElement('script');
