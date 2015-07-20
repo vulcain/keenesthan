@@ -2,6 +2,8 @@
 #write you personal pass 
 #test your URl
  *  https://api.github.com/repos/vulcain/keenesthan/hooks
+ *  https://api.github.com/users/keenesthan
+ 
 [Absolute README link](https://github.com/username/repo/blob/branch/docs/more_words.md)
 
   @keenesthan
