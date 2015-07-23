@@ -1,4 +1,8 @@
 README
+ * use .patch on end line ex:
+
+ * https://github.com/octocat/octocat.github.io/commit/67c0afc1da354d8571f51b6f0af8f2794117fd10.patch
+ * 
 This is a regular paragraph.
 ----
     
